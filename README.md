@@ -45,3 +45,4 @@ __weak typeof(self) weakSelf = self;
 ```
 
 最后献上Demo的样式：
+![headerZoom.gif](headerZoom.gif)
